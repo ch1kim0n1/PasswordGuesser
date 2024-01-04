@@ -5,7 +5,7 @@ import os
 import tkinter as tk
 from tkinter import messagebox
 
-pdf_file = r"C:\Users\skyla\Downloads\2024GameManual.pdf"
+pdf_file = r"YOUR/FILE/HERE"
 
 # Verify PDF file exists
 if not os.path.isfile(pdf_file):
